@@ -1,4 +1,4 @@
-public class ex2a {
+public class RowColumnTransform {
     public static void main(String[] args) {
         String message = "HELLO WORLD";
         message = message.replace(" ", "");
