@@ -1,6 +1,6 @@
 import java.util.*;
 
-class PlayFair {
+class VigenereCipher {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
 
