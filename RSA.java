@@ -1,6 +1,6 @@
 import java.math.BigInteger;
 import java.util.Scanner;
-public class rsa {
+public class RSA {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter prime number p: ");
