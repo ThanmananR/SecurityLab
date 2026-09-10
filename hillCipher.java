@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class HillCipher {
+public class hillCipher {
 
     static int[][] key = {
         {3, 25},
