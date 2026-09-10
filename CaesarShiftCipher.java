@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ex1a {
+public class CaesarShiftCipher {
 
     static String encrypt(String text, int key) {
         StringBuilder result = new StringBuilder();
