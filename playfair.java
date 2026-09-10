@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class VigenereCipher {
+public class playfair {
     static char[][] m = new char[5][5];
 
     static void makeKey(String key) {
