@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class HillCipher {
+public class VigenereCipher {
     static char[][] m = new char[5][5];
 
     static void makeKey(String key) {
