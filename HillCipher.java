@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ex2a {
+public class HillCipher {
     static char[][] m = new char[5][5];
 
     static void makeKey(String key) {
